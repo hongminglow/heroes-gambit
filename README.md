@@ -1,4 +1,4 @@
-# Heroes Gambit — Card Battle Rules
+# Heroes' Gambit — Card Battle Rules
 
 A Hearthstone-inspired fan-hand battler rebuilt with local art and bespoke animations.
 
