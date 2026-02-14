@@ -77,7 +77,6 @@ Cards fan out at the bottom with a subtle curve. Hovering reveals the card, clic
 ## Development
 
 ```bash
-cd heroes-gambit-game
 npm install
 npm run dev
 ```
@@ -85,5 +84,3 @@ npm run dev
 The project builds via `npm run build` and can be deployed to any static host (Netlify, Vercel, GitHub Pages, etc.).
 
 ---
-
-Still tracking any Construct 3 bridge: this is React/Vite, not a `.c3p` file, so it can't run _inside_ Construct 3 editor without a full rebuild.
